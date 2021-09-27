@@ -1,0 +1,1 @@
+Obsidian plugin for viewing and embedding .excalidraw files

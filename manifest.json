@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-excalidraw-plugin",
+	"name": "Excalidraw plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.6",
+	"description": "This is a excalidraw plugin for Obsidian.",
+	"author": "Artyom Suchkov",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
